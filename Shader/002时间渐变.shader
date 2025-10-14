@@ -1,4 +1,4 @@
-Shader "RealShaderMaster/Basic/colorChangeTime"{ //随时间渐变
+Shader "RealShaderMaster/Basic/002colorChangeTime"{ //随时间渐变
     Properties{
         _Speed("Speed",float) = 1.0 //控制变化速度
         _Light("Light",float) = 1.0 //控制亮度

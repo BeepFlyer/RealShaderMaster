@@ -1,4 +1,4 @@
-Shader "RealShaderMaster/Basic/colorChange"{ //渐变
+Shader "RealShaderMaster/Basic/001colorChange"{ //渐变
     SubShader {
         Pass{
             CGPROGRAM
